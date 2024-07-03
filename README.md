@@ -27,6 +27,7 @@ To get started with the project, follow these steps:
    git clone [<repository_url>](https://github.com/himal7070/RealFakeJobPostingPrediction.git)
 
 **Author**: Himal Aryal
+
 **Acknowledgments**: Fontys University of Applied Sciences is acknowledged for their support and guidance.
 
 **Note**: Please do not copy this assignment and submit it as your own. This repository is intended for reviewing and learning purposes only.
